@@ -1,0 +1,3 @@
+/Users/gharam/CLionProjects/paint_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gharam/CLionProjects/paint_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gharam/CLionProjects/paint_final/cmake-build-debug/CMakeFiles/paint_final.dir

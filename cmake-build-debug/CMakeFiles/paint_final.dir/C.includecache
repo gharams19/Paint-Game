@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gharam/CLionProjects/paint_final/canvas.h
+stdbool.h
+-
+
+/Users/gharam/CLionProjects/paint_final/commands.h
+stdbool.h
+-
+
+/Users/gharam/CLionProjects/paint_final/main.c
+stdio.h
+-
+stdlib.h
+-
+commands.h
+/Users/gharam/CLionProjects/paint_final/commands.h
+canvas.h
+/Users/gharam/CLionProjects/paint_final/canvas.h
+
